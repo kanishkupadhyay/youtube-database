@@ -1,0 +1,43 @@
+{
+    "all-videos": [
+        {
+            "id": 1,
+            "category": "song",
+            "title": "Don't Look",
+            "singer": "Karan aujla",
+            "singerID": "karan",
+            "embedurl": "https://www.youtube.com/embed/6Pd-3nvYDRk"
+        },
+        {
+            "id": 2,
+            "category": "shows",
+            "showId": "tmkoc",
+            "title": "Taarak Mehta ka ooltah chasmah Episode 414",
+            "embedurl": "https://www.youtube.com/embed/5_zRun2jd2M"
+        },
+        {
+            "id":3,
+            "category":"shows",
+            "showId": "tmkoc",
+            "title":"Taarak Mehta ka ooltah chasmah Episode 415",
+            "embedurl":"https://www.youtube.com/embed/KwSp5bon7go"
+        },
+        {
+            "id":4,
+            "category":"songs",
+            "singerID": "maninder",
+            "title":"Pani di gal",
+            "embedurl":"https://www.youtube.com/embed/v6eMKfr8qEY"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
